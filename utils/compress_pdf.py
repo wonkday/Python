@@ -1,3 +1,4 @@
+# python -m pip install pymupdf pillow
 import argparse
 import io
 from pathlib import Path
